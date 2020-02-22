@@ -14,11 +14,11 @@
 If your device is not listed, please open a issue having your device name & region in label!
 
 # Steps To Flash 
-> Download Latest Fastboot Files From Google
+- Download Latest Fastboot Files From Google
 
-> Open cmd in the fastboot folder
+- Open cmd in the fastboot folder
 
-> Boot device in fastboot mode
+- Boot device in fastboot mode
 
 Use following commands to flash the images :
 ```

@@ -2,6 +2,7 @@
 
 | Device | Region | Firmware Version | Link |
 | :-: | :-: | :-: | :-: | 
+| Realme 3 Pro | IN | C02 | [AFH](https://androidfilehost.com/?fid=4349826312261729069) |
 | Realme 5 Pro | IN | A11 | [AFH](https://androidfilehost.com/?fid=4349826312261604056) |
 | Realme Q | CN | A06 | [AFH](https://androidfilehost.com/?fid=1899786940962607920) |
 | Realme XT | IN | A10 | [AFH](https://androidfilehost.com/?fid=1899786940962606272) |

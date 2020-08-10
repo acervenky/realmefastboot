@@ -21,7 +21,9 @@
 | Realme X50 Pro | EU | A28 | [AFH](https://www.androidfilehost.com/?fid=8889791610682911854) |
 
 
-If your device is not listed, please follow this guide : [Youtube](https://github.com/acervenky/realmefastboot)
+If your device is not listed, please follow this guide :\
+[![](http://img.youtube.com/vi/WIPsJqIXrmk/0.jpg)](http://www.youtube.com/watch?v=WIPsJqIXrmk "")
+
 
 # Steps To Flash 
 - Download Latest Fastboot Files From Google

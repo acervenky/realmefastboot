@@ -1,4 +1,6 @@
 # Fastboot Images For Realme Devices
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Facervenky%2Frealmefastboot)](https://hits.seeyoufarm.com) [![Hits](https://img.shields.io/github/issues-closed/acervenky/realmefastboot)](https://github.com/acervenky/realmefastboot/issues)
+
 
 | Device | Region | Firmware Version | Link |
 | :-: | :-: | :-: | :-: | 

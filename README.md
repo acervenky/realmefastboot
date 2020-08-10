@@ -16,6 +16,8 @@
 | Realme X2 Pro | IN | A09 | [AFH](https://www.androidfilehost.com/?fid=4349826312261728685) |
 | Realme X3 SuperZoom | IN | A33 | [AFH](https://www.androidfilehost.com/?fid=8889791610682898218) |
 | Realme X50 | CN | A08 | [AFH](https://androidfilehost.com/?fid=4349826312261729427) |
+| Realme X50 Pro | IN | A29 | [AFH](https://www.androidfilehost.com/?fid=8889791610682911838) |
+
 
 If your device is not listed, please follow this guide : [Youtube](https://github.com/acervenky/realmefastboot)
 

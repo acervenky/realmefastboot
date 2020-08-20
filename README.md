@@ -8,6 +8,7 @@
 | Realme 3 Pro | IN | C02 | [AFH](https://androidfilehost.com/?fid=4349826312261729069) |
 | Realme 5 Pro | IN | A11 | [AFH](https://androidfilehost.com/?fid=4349826312261604056) |
 | Realme 5s | IN | C53 | [AFH](https://www.androidfilehost.com/?fid=8889791610682914173) |
+| Realme 5i | IN | C53 | [AFH](https://www.androidfilehost.com/?fid=8889791610682914173) |
 | Realme 6 Pro | IN | A29 | [AFH](https://www.androidfilehost.com/?fid=8889791610682914150) |
 | Realme C11 | IN | A67 | [AFH](https://www.androidfilehost.com/?fid=8889791610682913185) |
 | Realme Q | CN | A06 | [AFH](https://androidfilehost.com/?fid=1899786940962607920) |
